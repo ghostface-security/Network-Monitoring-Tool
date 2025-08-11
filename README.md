@@ -18,3 +18,7 @@ Simply run the script from your terminal:
 python network_monitor.py
 
 The script will start printing new connections to your console in real-time. To stop the monitor, just press Ctrl+C.
+
+Disclaimer & Ethical Use
+This tool is intended for educational purposes and for use on networks where you have explicit permission to monitor traffic. Do not use this tool on networks you do not own or have authorization for. Unauthorized network monitoring can be illegal and is a violation of privacy.
+The author is not responsible for any misuse of this software. Always comply with local laws and regulations regarding network surveillance.
