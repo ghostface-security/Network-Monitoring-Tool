@@ -1,3 +1,5 @@
+# Network Monitoring Tool
+
 Real-Time Network Connection Monitor
 This Python script, network_monitor.py, is a simple tool for monitoring and logging new network connections on your system. Built with the powerful Scapy library, it passively sniffs network traffic and reports when a new TCP or UDP connection is established.
 Features
@@ -19,6 +21,7 @@ python network_monitor.py
 
 The script will start printing new connections to your console in real-time. To stop the monitor, just press Ctrl+C.
 
-Disclaimer & Ethical Use
+# Disclaimer & Ethical Use
+
 This tool is intended for educational purposes and for use on networks where you have explicit permission to monitor traffic. Do not use this tool on networks you do not own or have authorization for. Unauthorized network monitoring can be illegal and is a violation of privacy.
 The author is not responsible for any misuse of this software. Always comply with local laws and regulations regarding network surveillance.
