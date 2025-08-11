@@ -26,5 +26,4 @@ def packet_callback(packet):
             active_connections[connection_key]["start_time"] = datetime.datetime.now()
             print(f"[{active_connections[connection_key]['start_time']}] NEW CONNECTION: {protocol} {src_ip}:{src_port} -> {dst_ip}:{dst_port}")
             
-print("Starting network monitor...")
 sniff(prn=packet_callback, store=0)
